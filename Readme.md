@@ -7,3 +7,5 @@ Praticar e repetir os comandos para fixação e aprendizagem dos conteudos, é u
 
 
 adicionando um commit para teste
+
+Nova linha de testo para novo commit.
