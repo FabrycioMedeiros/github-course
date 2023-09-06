@@ -6,4 +6,4 @@ Me chamo Fabrycio Medeiros.
 Praticar e repetir os comandos para fixação e aprendizagem dos conteudos, é uma forma rápida de obter conhecimentos.
 
 
-versão para execução de comando apagar!
+adicionando um commit para teste
