@@ -1,3 +1,4 @@
+
 GitHub
 Curso Git e GitHub para iniciantes!
 Este é um repositório teste para aprendizagem no curso do Willian Justen.
@@ -11,3 +12,4 @@ adicionando um commit para teste
 Nova linha de testo para novo commit.
 
 www.cifras.com
+Teste bem sucedido de clonagem de repositório após criação de chabe SSH
